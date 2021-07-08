@@ -19,10 +19,15 @@
  <img src='https://user-images.githubusercontent.com/69270095/124947996-b1990600-dfe6-11eb-8dbe-2ef86afccd38.png' width="35vw"/> Express |
  <img src='https://user-images.githubusercontent.com/69270095/124946896-c4f7a180-dfe5-11eb-9a47-03c1091c5bda.png' width="30vw"/> CSS3 |
  <img src='https://user-images.githubusercontent.com/69270095/124947179-fe301180-dfe5-11eb-8495-338bade70395.png' width="30vw"/> HTML5  
- 
 </p>
  
- 
+ <br></br>
+ ## <p align="center"> Stats </p>
+ <p align="center">
+ <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=javicastro89&theme=react />
+ <br></br>
+ <img src=https://github-readme-stats.vercel.app/api?username=javicastro89&show_icons=true&theme=react />
+ </p>
 
 - 👋 Hi, I’m Javier
 - 👀 I’m interested in ...
