@@ -2,7 +2,7 @@
 
 I'm passionate about learning, when I finished my degree (industrial engineering) I decided to continue studying. There were a lot of options at that time, but no one of the common options resulted attractive to me. After thinking a while, I decided to combine my profession with my other passion, technology. There are a lot of options in the world of technology too, talking with experimented friends on the field about its took me to my kick off on programing, and then continue with the web development. I love this new world, where you learn something new almost every day! 
 
-
+___
 ## <p align="center"> Technical skills </p>
 
 <p align="center">
@@ -24,18 +24,24 @@ I'm passionate about learning, when I finished my degree (industrial engineering
 </p>
  
  <br></br>
+ ___
  ## <p align="center"> Stats </p>
  <p align="center">
  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=javicastro89&theme=vue-dark />
  <br></br>
  <img src=https://github-readme-stats.vercel.app/api?username=javicastro89&show_icons=true&theme=vue-dark />
  </p>
+ 
+  <br></br>
+  ___
+ ## <p align="center"> Projects </p>
+ 
+ ### <p> Individual project </p>
+ 
+ <p align="center"> 
+ <img src='https://user-images.githubusercontent.com/69270095/125121912-044bee00-e0cb-11eb-884b-8f8ba07d80c2.PNG' width="450vw"/> <img src='https://user-images.githubusercontent.com/69270095/125121943-12017380-e0cb-11eb-97d9-50c9737912eb.PNG' width="450vw"/> <img src='https://user-images.githubusercontent.com/69270095/125122225-791f2800-e0cb-11eb-925c-46bb7de018d1.PNG' width="450vw"/> 
+ </p>
 
-- 👋 Hi, I’m Javier
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 javicastro89/javicastro89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
