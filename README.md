@@ -50,6 +50,10 @@ ___
 ___
 
 ## <p align="center"> Contact </p>
+
+<p align="center"> 
+<a href=https://www.linkedin.com/in/javicastro89/> <img src='https://user-images.githubusercontent.com/69270095/125123725-6a397500-e0cd-11eb-97b4-29b29bb8c933.png' width='100' /> </a>
+ </p>
 <!---
 javicastro89/javicastro89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
