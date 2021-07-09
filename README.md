@@ -41,10 +41,8 @@ ___
  ### <p> Individual project </p>
  
  <p align="center"> 
- <img src='https://user-images.githubusercontent.com/69270095/125121912-044bee00-e0cb-11eb-884b-8f8ba07d80c2.PNG' width="400vw"/> <img src='https://user-images.githubusercontent.com/69270095/125121943-12017380-e0cb-11eb-97d9-50c9737912eb.PNG' width="400vw"/> <img src='https://user-images.githubusercontent.com/69270095/125122225-791f2800-e0cb-11eb-925c-46bb7de018d1.PNG' width="400vw"/> 
- <p align="center"> 
-<a href=https://github.com/javicastro89/PI-Dogs> <img src='https://user-images.githubusercontent.com/69270095/125122854-59d4ca80-e0cc-11eb-9dc1-6cab7ee87a40.png' width='100' /> </a>
- </p>
+ <a href=https://github.com/javicastro89/PI-Dogs/> <img src='https://user-images.githubusercontent.com/69270095/125121912-044bee00-e0cb-11eb-884b-8f8ba07d80c2.PNG' width="400vw"/> </a> <a href=https://github.com/javicastro89/PI-Dogs/> <img src='https://user-images.githubusercontent.com/69270095/125121943-12017380-e0cb-11eb-97d9-50c9737912eb.PNG' width="400vw"/> </a> <a href=https://github.com/javicastro89/PI-Dogs/> <img src='https://user-images.githubusercontent.com/69270095/125122225-791f2800-e0cb-11eb-925c-46bb7de018d1.PNG' width="400vw"/> </a>
+
 </p>
 
 ___
