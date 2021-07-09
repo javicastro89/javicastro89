@@ -41,7 +41,7 @@ ___
  ### <p> Individual project </p>
  
  <p align="center"> 
- <img src='https://user-images.githubusercontent.com/69270095/125121912-044bee00-e0cb-11eb-884b-8f8ba07d80c2.PNG' width="450vw"/> <img src='https://user-images.githubusercontent.com/69270095/125121943-12017380-e0cb-11eb-97d9-50c9737912eb.PNG' width="450vw"/> <img src='https://user-images.githubusercontent.com/69270095/125122225-791f2800-e0cb-11eb-925c-46bb7de018d1.PNG' width="450vw"/> 
+ <img src='https://user-images.githubusercontent.com/69270095/125121912-044bee00-e0cb-11eb-884b-8f8ba07d80c2.PNG' width="400vw"/> <img src='https://user-images.githubusercontent.com/69270095/125121943-12017380-e0cb-11eb-97d9-50c9737912eb.PNG' width="400vw"/> <img src='https://user-images.githubusercontent.com/69270095/125122225-791f2800-e0cb-11eb-925c-46bb7de018d1.PNG' width="400vw"/> 
  <p align="center"> 
 <a href=https://github.com/javicastro89/PI-Dogs> <img src='https://user-images.githubusercontent.com/69270095/125122854-59d4ca80-e0cc-11eb-9dc1-6cab7ee87a40.png' width='100' /> </a>
  </p>
@@ -54,6 +54,8 @@ ___
 <p align="center"> 
 <a href=https://www.linkedin.com/in/javicastro89/> <img src='https://user-images.githubusercontent.com/69270095/125123725-6a397500-e0cd-11eb-97b4-29b29bb8c933.png' width='100' /> </a>
  </p>
+ 
+ 
 <!---
 javicastro89/javicastro89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
