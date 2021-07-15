@@ -1,6 +1,6 @@
 ![Presentation banner](https://user-images.githubusercontent.com/69270095/124472532-9e7eff80-dd74-11eb-9d17-cb86b7680bd8.gif)
 
-I'm passionate about learning, when I finished my degree (industrial engineering) I decided to continue studying. There were a lot of options at that time, but no one of the common options resulted attractive to me. After thinking a while, I decided to combine my profession with my other passion, technology. There are a lot of options in the world of technology too, talking with experimented friends on the field about its took me to my kick off on programing, and then continue with the web development. I love this new world, where you learn something new almost every day! 
+I'm very passionate about learning, and after I got my degree (industrial engineering), I decided to continue studying. At that time, there were a lot of options, but none of them suited me. After thinking a while, I decided to combine my profession with my other passion: technology. In the field of technology, I found a great variety of options. So, after talking to some friends with experience on the field, I decided to embark on programing, and then, to continue with web development. I love this new world, where you can learn something new almost every day!
 
 ___
 ## <p align="center"> Technical skills </p>
