@@ -1,6 +1,6 @@
 ![Presentation banner](https://user-images.githubusercontent.com/69270095/124472532-9e7eff80-dd74-11eb-9d17-cb86b7680bd8.gif)
 
-I'm very passionate about learning, and after I got my degree (industrial engineering), I decided to continue studying. At that time, there were a lot of options, but none of them suited me. After thinking a while, I decided to combine my profession with my other passion: technology. In the field of technology, I found a great variety of options. So, after talking to some friends with experience on the field, I decided to embark on programing, and then, to continue with web development. I love this new world, where you can learn something new almost every day!
+Hi! I'm Javier, I'll tell you a little about myself: I'm very passionate about learning, after I got my degree (industrial engineering), I decided to continue studying. At that time, there were a lot of options, but none of them suited me. After thinking a while, I decided to combine my profession with my other passion: technology. In the field of technology, I found a great variety of options. So, after talking to some friends with experience on the field, I decided to embark on programing, and then, to continue with web development. I love this new world, where you can learn something new almost every day!
 
 ___
 ## <p align="center"> Technical skills </p>
